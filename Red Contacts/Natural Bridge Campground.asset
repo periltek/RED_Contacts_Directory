@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec7b719f2a7ac54e99cfb31eb4b4b80, type: 3}
+  m_Name: Natural Bridge Campground
+  m_EditorClassIdentifier: 
+  entityName: Natural Bridge Campground
+  location: 90 L And E Railroad Pl, Slade, KY 40376
+  phoneNumber: (606) 663-9352
+  email: 
+  website: naturalbridge.camp
+  gpsCoordinates: {x: 37.79372, y: -83.70607}
+  generalArea: Slade
+  icon: {fileID: 2800000, guid: f5710ccc8bf7e2044881f838d731bdef, type: 3}
+  hardCodedDate: 120920241222
+  sourceLink: 
+  debug: 0
+  primaryCategory: 4
+  secondaryCategories:
+  - Showers
+  - Bathrooms
+  - Fishing
+  - Running Water
+  - Electric Hookups
+  - RVs
+  - Campers

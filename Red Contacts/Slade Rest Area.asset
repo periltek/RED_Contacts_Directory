@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec7b719f2a7ac54e99cfb31eb4b4b80, type: 3}
+  m_Name: Slade Rest Area
+  m_EditorClassIdentifier: 
+  entityName: 'Junior Williamson Rest Area '
+  location: 24 L&e Railroad Pl, Slade, KY 40376
+  phoneNumber: 606-471-2161
+  email: 
+  website: 
+  gpsCoordinates: {x: 37.796196, y: -83.704895}
+  generalArea: Slade
+  icon: {fileID: 2800000, guid: f5710ccc8bf7e2044881f838d731bdef, type: 3}
+  hardCodedDate: 120920241714
+  sourceLink: 
+  debug: 0
+  primaryCategory: 9
+  secondaryCategories:
+  - Picnicking
+  - Vending
+  - Farmers Market
+  - Public Grills
+  - Parking

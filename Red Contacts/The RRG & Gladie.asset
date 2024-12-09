@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec7b719f2a7ac54e99cfb31eb4b4b80, type: 3}
+  m_Name: The RRG & Gladie
+  m_EditorClassIdentifier: 
+  entityName: Red River Gorge (RRG)
+  location: Red River Gorge (RRG)
+  phoneNumber: 606-663-8100
+  email: gladie@gofindoutdoors.org
+  website: https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39458
+  gpsCoordinates: {x: 37.814987, y: -83.62213}
+  generalArea: The Red
+  icon: {fileID: 2800000, guid: fc1e6db045bb908419eb7c93636e06e0, type: 3}
+  hardCodedDate: 120920241809
+  sourceLink: 
+  debug: 0
+  primaryCategory: 0
+  secondaryCategories: []

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec7b719f2a7ac54e99cfb31eb4b4b80, type: 3}
+  m_Name: Red River Gorge Campground
+  m_EditorClassIdentifier: 
+  entityName: Red River Gorge Campground
+  location: 2270 Star Gap Rd, Stanton, KY 40380
+  phoneNumber: (606) 663-8178
+  email: 
+  website: 
+  gpsCoordinates: {x: 37.83432, y: -83.71248}
+  generalArea: North Fork
+  icon: {fileID: 2800000, guid: f5710ccc8bf7e2044881f838d731bdef, type: 3}
+  hardCodedDate: 120920241821
+  sourceLink: 
+  debug: 0
+  primaryCategory: 4
+  secondaryCategories:
+  - River Side
+  - Fishing
+  - Quiet Setting
+  - Isolated from Highway Noise
+  - Some Amenities
